@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MyBookStore
+
+  Created by Mirzabek on 08/01/23.
+  
+*/
+"str_langauage" = "Langauage";
+"str_logout" = "Log Out";
+"str_welcome" = "PDP - Best programming academy";
+
+
